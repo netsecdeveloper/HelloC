@@ -15,6 +15,7 @@ int main(void) {
 	char *a = "aihm";
 	//printf("%d",strlen(a));
 	printf("%c", a[0]);
-	puts("Hello World");
+	puts("Hello World");,
+	printf("Git integration is finished");
 	return EXIT_SUCCESS;
 }
