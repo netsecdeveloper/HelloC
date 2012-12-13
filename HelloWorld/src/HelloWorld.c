@@ -15,6 +15,6 @@ int main(void) {
 	char *a = "aihm";
 	//printf("%d",strlen(a));
 	printf("%c", a[0]);
-	puts("Hello World"); /* Hi prints !!!Hello World!!! */
+	puts("Hello World");
 	return EXIT_SUCCESS;
 }
